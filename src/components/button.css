@@ -1,0 +1,19 @@
+.but-class {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 4px;
+    align-self: center;
+    cursor: pointer;
+}
+
+.but-class--red {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 4px;
+    align-self: center;
+    cursor: pointer;
+}
